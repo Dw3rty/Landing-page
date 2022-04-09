@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #1F2937;
+    font-family: roboto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 18px;
+    margin-bottom: 45px;   
+    }
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+.links {
+    display: flex;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #e5e7eb;
+    margin: 0;
+    padding: 0;
+    gap: 35px;
+
+}
+
+
+
