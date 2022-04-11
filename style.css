@@ -9,7 +9,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px 18px;
-    margin-bottom: 45px;   
+       
     }
 .logo {
     font-size: 24px;
@@ -26,6 +26,53 @@ body {
     gap: 35px;
 
 }
+.main {
+    background-color: #1F2937;
+    display: flex;
+    text-align: block; 
+    align-items: center;
+}
+.image {
+    padding: 25px;
+}
+.text {
+    padding-left: 25px;
+}
+.Blog {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    padding-top: 35px;
+}
+.Subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.sign {
+    display: flex;
+    background-color: #3882F6;
+    border: 0;
+    border-radius: 5px;
+    padding: 7px;
+    color: white;
+}
+.images {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    }
+img {
+    border-radius: 15%;
+}
+header {
+    padding-top: 50px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+
 
 
 
